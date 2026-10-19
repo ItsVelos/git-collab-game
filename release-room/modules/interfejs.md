@@ -1,5 +1,5 @@
-# Moduł interfejs
+\# Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
+Odpowiedzialny: ItsVelos
 Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Opis zmiany: Coś tam dodaliśmy do UI
